@@ -27,6 +27,14 @@ foreach (int l in Enumerable.Range(0,lives)) {
     }
     else {
         Console.WriteLine("You won, the number was " + rint);
-        Environment.Exit(0);
+        ExitProgram();
     }
+}
+
+ExitProgram();
+
+void ExitProgram() {
+    Console.Write("Press any key to exit program ");
+    Console.ReadKey();
+    Environment.Exit(0);
 }

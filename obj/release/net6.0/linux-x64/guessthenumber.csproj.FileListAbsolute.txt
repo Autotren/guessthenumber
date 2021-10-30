@@ -193,3 +193,4 @@
 /Volumes/Crucial BX500/Documents/dotnet/guessthenumber/obj/release/net6.0/linux-x64/ref/guessthenumber.dll
 /Volumes/Crucial BX500/Documents/dotnet/guessthenumber/obj/release/net6.0/linux-x64/guessthenumber.pdb
 /Volumes/Crucial BX500/Documents/dotnet/guessthenumber/obj/release/net6.0/linux-x64/guessthenumber.genruntimeconfig.cache
+/Volumes/Crucial BX500/Documents/dotnet/guessthenumber/obj/release/net6.0/linux-x64/guessthenumber.csproj.CopyComplete
