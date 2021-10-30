@@ -16,3 +16,5 @@ mv ./bin/release/net6.0/win-x64/publish/guessthenumber.exe ./release/guessthenum
 echo
 echo "Removing bin folder contents..."
 rm -r ./bin/*
+echo "Cleaning solution..."
+dotnet clean
