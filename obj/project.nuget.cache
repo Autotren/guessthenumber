@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kHaPBPol132V8VEeS/0fGgU7YPCM907CCjOB9f8YfZdPm5uxxPj+ndw4VLJSssSYCtnY79TBiJ6y+TmF0Qfn1Q==",
+  "success": true,
+  "projectFilePath": "/Volumes/Crucial BX500/Documents/dotnet/guessthenumber/guessthenumber.csproj",
+  "expectedPackageFiles": [
+    "/Users/kentabussi/.nuget/packages/microsoft.netcore.app.crossgen2.osx-arm64/6.0.0-rc.2.21480.5/microsoft.netcore.app.crossgen2.osx-arm64.6.0.0-rc.2.21480.5.nupkg.sha512"
+  ],
+  "logs": []
+}

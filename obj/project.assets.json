@@ -1,0 +1,71 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net6.0": []
+  },
+  "packageFolders": {
+    "/Users/kentabussi/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Volumes/Crucial BX500/Documents/dotnet/guessthenumber/guessthenumber.csproj",
+      "projectName": "guessthenumber",
+      "projectPath": "/Volumes/Crucial BX500/Documents/dotnet/guessthenumber/guessthenumber.csproj",
+      "packagesPath": "/Users/kentabussi/.nuget/packages/",
+      "outputPath": "/Volumes/Crucial BX500/Documents/dotnet/guessthenumber/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/kentabussi/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Crossgen2.osx-arm64",
+            "version": "[6.0.0-rc.2.21480.5, 6.0.0-rc.2.21480.5]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.100-rc.2.21505.57/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

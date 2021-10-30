@@ -1,0 +1,2 @@
+/Volumes/Crucial BX500/Documents/dotnet/guessthenumber/bin/release/net6.0/linux-arm64/publish/guessthenumber.pdb
+/Volumes/Crucial BX500/Documents/dotnet/guessthenumber/bin/release/net6.0/linux-arm64/publish/guessthenumber
